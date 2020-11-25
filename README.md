@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## **_Personal Informations_**.
+
+I'm 39 years old, I live in São Paulo City and I'm student and passionate about technology in special systems development.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
