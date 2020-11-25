@@ -12,7 +12,7 @@ I'm 39 years old, I live in São Paulo City and I'm student and passionate about
 
 ## **_Personal Informations_**.
 - 🔭 I’m currently working on 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning.
        - [x] Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
