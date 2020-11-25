@@ -2,7 +2,7 @@
 
 # Hi There 👋 Wecome To My GitHub!
 
-[GitHub](https://github.com/FabianoAlexandre)  [<i class="fab fa-docker"></i> Dockerhub](https://hub.docker.com)
+[GitHub](https://github.com/FabianoAlexandre)  [<i src="fab fa-docker"></i> Dockerhub](https://hub.docker.com)
 
 ## **_My Contacts!_**
 [Linkedin](https://www.linkedin.com/in/fabiano-alexandre-49b71b48/) - [Facebook](https://www.facebook.com/fabiano.alexandred) - [Gmail](fabiano.alexandred@gmail.com) - [Hotmail](fabiano_alexandred@hotmail.com) - [Instagram](@fabiano_cbjj)
