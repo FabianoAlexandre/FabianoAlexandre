@@ -11,7 +11,7 @@
 I'm 39 years old, I live in São Paulo City and I'm student and passionate about technology in special systems development.
 
 ## **_Personal Informations_**.
-- 🔭 I’m currently working on 
+- 🔭 I’m currently:
      - I'm currently working as bus driver of the urban transport in São Paulo City   
 - 🌱 I’m currently learning
      - [x] Python
