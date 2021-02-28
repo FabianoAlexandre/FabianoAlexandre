@@ -8,7 +8,7 @@
 [Linkedin](https://www.linkedin.com/in/fabiano-alexandre-49b71b48/) - [Facebook](https://www.facebook.com/fabiano.alexandred) - [Gmail](fabiano.alexandred@gmail.com) - [Hotmail](fabiano_alexandred@hotmail.com) - [Instagram](@fabiano_cbjj)
 
 ## **_About Me!_**
-I'm 39 years old, I live in São Paulo City and I'm student and passionate about technology in special systems development.
+I'm 39 years old, I live in São Paulo - SP City and I'm student in systems development.
 
 ## **_Personal Informations_**.
 - 🔭 I’m currently:
