@@ -8,7 +8,7 @@
 [Linkedin](https://www.linkedin.com/in/fabiano-alexandre-49b71b48/) - [Facebook](https://www.facebook.com/fabiano.alexandred) - [Gmail](fabiano.alexandred@gmail.com) - [Hotmail](fabiano_alexandred@hotmail.com) - [Instagram](@fabiano_cbjj)
 
 ## **_About Me!_**
-I'm 39 years old, I live in São Paulo - SP City and I'm student of systems development.
+Hallo! My name is Fabiano, I am 39 years old, I'm from São Paulo - SP and I am student of systems development. I'm passionate about tecnology and I always seek to be up to date and learning more and more. I currently work as a bus driver in the city of São Paulo but I would love to join the Systems development area. Thank you for the visit in my GitHub and feel free, let's share knowledge.
 
 ## **_Personal Informations_**.
 - 🔭 I’m currently:
