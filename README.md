@@ -13,7 +13,9 @@ Currently I'm studying and postgraduate in forensic computing and expertise digi
 
 ## **_Personal Informations_**.
 - 🔭 I’m currently:
-     - I'm currently working as bus driver of the urban transport in São Paulo City   
+     - Working as bus driver of the urban transport in the São Paulo City   
+     - Postgraduate in forensic computing 
+     - Working in personal projects
 - 🌱 I’m currently learning
      - [x] Python
      - [x] Kotlin
