@@ -9,6 +9,7 @@
 
 ## **_About Me!_**
 Hallo! My name is Fabiano, I am 39 years old, I'm from São Paulo - SP and I am student of systems development. I'm passionate about tecnology and I always seek to be up to date and learning more and more. I currently work as a bus driver in the city of São Paulo but I would love to join the Systems development area. Thank you for the visit in my GitHub and feel free, let's share knowledge.
+Currently I'm studying and postgraduate in forensic computing and expertise digital  
 
 ## **_Personal Informations_**.
 - 🔭 I’m currently:
@@ -16,6 +17,7 @@ Hallo! My name is Fabiano, I am 39 years old, I'm from São Paulo - SP and I am 
 - 🌱 I’m currently learning
      - [x] Python
      - [x] Kotlin
+     - [x] Java
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
